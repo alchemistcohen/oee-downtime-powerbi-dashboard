@@ -1,0 +1,26 @@
+IncidentID,Incident,Type,,,,,,,,,,,,,IncidentID,Incident,Type
+1,Operation Failed,No Order,,,,,,,,,,,,,1,Operation Failed,No Order
+2,Beaten / damaged part,No Order,,,,,,,,,,,,,2,Beaten / damaged part,No Order
+3,Irregular Bath,No Order,,,,,,,,,,,,,3,Irregular Bath,No Order
+4,Irregular Raw Material,No Order,,,,,,,,,,,,,4,Irregular Raw Material,No Order
+5,Dimensional,No Order,,,,,,,,,,,,,5,Dimensional,No Order
+6,Irregular Forge,No Order,,,,,,,,,,,,,6,Irregular Forge,No Order
+7,Project Change / Error,No Order,,,,,,,,,,,,,7,Project Change / Error,No Order
+8,Irregular Tooling / Machine,No Order,,,,,,,,,,,,,8,Irregular Tooling / Machine,No Order
+9,Operator Failure,No Order,,,,,,,,,,,,,9,Operator Failure,No Order
+10,Tool Purchase,No Order,,,,,,,,,,,,,10,Tool Purchase,No Order
+11,Sharpening Tool / Polishing Die,No Order,,,,,,,,,,,,,11,Sharpening Tool / Polishing Die,No Order
+12,Missing Device / Program,No Order,,,,,,,,,,,,,12,Missing Device / Program,No Order
+13,Missing accessories,No Order,,,,,,,,,,,,,13,Missing accessories,No Order
+21,Lack of Raw Material,No Order,,,,,,,,,,,,,21,Lack of Raw Material,No Order
+22,Waiting for Previous Operator,No Order,,,,,,,,,,,,,22,Waiting for Previous Operator,No Order
+23,Lack of programming,No Order,,,,,,,,,,,,,23,Lack of programming,No Order
+31,Electrical maintenance,PM (Maintenance),,,,,,,,,,,,,31,Electrical maintenance,PM (Maintenance)
+32,Mechanical Maintenance,PM (Maintenance),,,,,,,,,,,,,32,Mechanical Maintenance,PM (Maintenance)
+33,Preventive maintenance,PM (Maintenance),,,,,,,,,,,,,33,Preventive maintenance,PM (Maintenance)
+41,Lack of manpower,PM (Maintenance),,,,,,,,,,,,,41,Lack of manpower,PM (Maintenance)
+51,Machine Preparation,Changeover-Cleaning,,,,,,,,,,,,,51,Machine Preparation,Changeover-Cleaning
+52,Machine Adjustment,Changeover-Cleaning,,,,,,,,,,,,,52,Machine Adjustment,Changeover-Cleaning
+61,Quality control,Changeover-Cleaning,,,,,,,,,,,,,61,Quality control,Changeover-Cleaning
+71,Engineering,Changeover-Cleaning,,,,,,,,,,,,,71,Engineering,Changeover-Cleaning
+99,Others,Changeover-Cleaning,,,,,,,,,,,,,99,Others,Changeover-Cleaning
